@@ -1,0 +1,42 @@
+h2 {
+  text-align:center;
+  background-color:black;
+  color:white;
+  font-size:50px;
+  margin:100px;
+  padding:100px;
+  transform: skewY(-1.5deg);
+  transform-origin: 100%;
+}
+
+.githublist {
+  margin:60px;
+  background-color:white;
+  color:blue;
+
+}
+
+.basic {
+  margin:100px;
+  font-size:40px;
+  width:40%;
+  color:black;
+}
+.thestory {
+  font-size:40px;
+  margin-top:-150px;
+  margin-left:634px;
+  color:black;
+}
+ul {
+  margin:66px;
+  margin-top: 20px;
+  width:30%;
+  color:#CCCCCC;
+  list-style:none;
+}
+.bio {
+margin-left:634px;
+margin-top:-140px;
+color:#CCCCCC;
+}
